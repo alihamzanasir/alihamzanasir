@@ -16,29 +16,6 @@
 
 ---
 
-## 📄 My Resume / CV:
-<p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-View-lightgrey" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PDF-Download-blue" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me:
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-blue" />
-  </a>
-</p>
-
-📧 **Email:** your-email@gmail.com
-
----
-
 ## 🧠 Tech Stack:
 
 ### 🧩 Full-Stack | Front-End Specialist
@@ -85,8 +62,3 @@
 
 ## ☕ Fun Fact:
 I love coding at night with a cup of coffee ☕💻
-
----
-
-## 🤝 Want to Collaborate?
-📩 Reach out via **Email** or **LinkedIn**
