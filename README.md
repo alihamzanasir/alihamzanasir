@@ -7,12 +7,18 @@
 
 ---
 
-## 🚀 About Me:
-- 💡 Open for bright ideas
-- 🤝 Looking to collaborate on **Senior AI Expert Full-Stack Web & Mobile Development**
-- 🔥 Specializing in **React, React Native, Expo, Next.js, and TypeScript**
-- ⚡ Passionate about **API integrations** and scalable applications
-- 🛠 Ask me about **Supabase, Firebase, Stripe, and 3rd-party APIs**
+## 🚀 About Me
+
+* 💡 Open to innovative ideas and challenging projects
+* 🤝 Looking to collaborate on **Senior AI-Powered Full-Stack Web & Mobile Development**
+* 🔥 Specializing in **React, React Native, Expo, Next.js, TypeScript, and Node.js**
+* 🤖 Experienced in building **Conversational AI applications** using **OpenAI, GPT models, AI Agents, and LLM integrations**
+* 📚 Skilled in developing **RAG (Retrieval-Augmented Generation) systems** with custom knowledge bases, vector databases, embeddings, and semantic search
+* 🏢 Built and maintained **Multi-Tenant SaaS platforms** with role-based access control, subscription management, and organization-level data isolation
+* ⚡ Passionate about **API integrations**, automation, and scalable cloud architectures
+* 💳 Experienced with **Stripe subscriptions, payment systems, and billing workflows**
+* 🛠 Ask me about **OpenAI, RAG Systems, AI Chatbots, Supabase, Firebase, Stripe, PostgreSQL, and 3rd-party API integrations**
+
 
 ---
 
